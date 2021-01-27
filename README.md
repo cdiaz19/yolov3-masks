@@ -1,4 +1,4 @@
-# FaceMask Deep Learning
+# 🤖 FaceMask Deep Learning
 
 Final Project to Deep Learning Course (Cenfotec)
 
