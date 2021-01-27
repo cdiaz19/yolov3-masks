@@ -57,3 +57,6 @@ Database Settings
 Download File
 ![Download file on Roboflow](https://github.com/cdiaz19/yolov3-masks/blob/main/media/downloads.jpg)
 
+## GIF
+
+![GIF](https://github.com/cdiaz19/yolov3-masks/blob/main/gif/gifs.gif)
