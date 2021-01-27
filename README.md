@@ -26,6 +26,7 @@ We're using 4 mask classes
 ## Training
 
 ```bash
+✨✨✨✨✨✨✨✨
 # Tensorflow CPU
 conda env create -f conda-cpu.yml
 conda activate yolov3-tf2-cpu
