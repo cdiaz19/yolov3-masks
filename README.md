@@ -52,11 +52,11 @@ python detect_video.py --video ./data/Mask_video.mp4 --output ./output-loss-13.a
 ## Dataset on Roboflow
 
 Database Settings
-![Download file on Roboflow](https://github.com/cdiaz19/yolov3-masks/blob/main/media/settings.jpg)
+![Download file on Roboflow](https://github.com/cdiaz19/yolov3-masks/blob/main/media/images/settings.jpg)
 
 Download File
-![Download file on Roboflow](https://github.com/cdiaz19/yolov3-masks/blob/main/media/downloads.jpg)
+![Download file on Roboflow](https://github.com/cdiaz19/yolov3-masks/blob/main/media/images/downloads.jpg)
 
 ## GIF
 
-![GIF](https://github.com/cdiaz19/yolov3-masks/blob/main/gif/gifs.gif)
+![GIF](https://github.com/cdiaz19/yolov3-masks/blob/main/media/gifs/gifs.gif)
